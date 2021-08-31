@@ -1,8 +1,8 @@
-local blips = {
-    -- Example {title="", colour=, id=, x=, y=, z=},
 
+local blips = {
+-- Ej: {title="", colour=, id=, x=, y=, z=},
      {title="Bahama Mamas Club", colour=3, id=93, x = -1388.16, y = -591.28, z = 30.32},
-     --{title="Marlowe Vineyard", colour=3, id=499, x = -1873.58, y = 2023.76, z = 138.83}
+   --{title="Marlowe Vineyard", colour=3, id=499, x = -1873.58, y = 2023.76, z = 138.83}
   }
       
 Citizen.CreateThread(function()
