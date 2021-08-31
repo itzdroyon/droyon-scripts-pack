@@ -1,6 +1,8 @@
 
 ----------------------------------------------------------------------------
---DANO ARMAS (E SOCO) MELEE ///// MELEE AND WEAPONS DAMAGE 
+--    [ZENTURION RP/LEAKS]
+-- https://discord.gg/KYSTsxj8Nb
+-- https://discord.gg/3xea35p85X
 ----------------------------------------------------------------------------
 Citizen.CreateThread(function()
     while true do
@@ -11,7 +13,6 @@ Citizen.CreateThread(function()
     end
 end)
 ----------------------------------------------------------------------------
---DANO CORONHADA //// PISTOL WHIPPING
 ----------------------------------------------------------------------------
 Citizen.CreateThread(function()
     while true do
