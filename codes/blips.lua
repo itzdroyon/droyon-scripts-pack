@@ -1,3 +1,7 @@
+-- [ZENTURION RP/LEAKS]
+-- https://discord.gg/KYSTsxj8Nb
+-- https://discord.gg/3xea35p85X
+
 
 local blips = {
 -- Ej: {title="", colour=, id=, x=, y=, z=},
